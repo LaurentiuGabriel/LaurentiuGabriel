@@ -3,7 +3,7 @@
 - 📚 I'm a tech author on Pluralsight and Udemy with courses having more than 100k students
 - 👀 I’m interested in supervised/unsupervised learning, as well as any artificial intelligence algorithm
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on tackling a challenge on Kaggle.com
+- 💞️ I’m looking to team up on tackling a challenge on Kaggle.com
 - 📫 You can reach me at laurentiu@bitheap.tech
 
 <!---
