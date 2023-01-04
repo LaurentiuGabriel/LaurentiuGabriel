@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @LaurentiuGabriel
 - 💼 I'm the founder of https://bitheap.tech/
 - 📚 I'm a tech author on Pluralsight and Udemy with courses having more than 100k students
+- 🏤 I'm a published author on Amazon Kindle Store
 - 👀 I’m interested in supervised/unsupervised learning, as well as any artificial intelligence algorithm
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to team up on tackling a challenge on Kaggle.com
+- 📙 For a complete summary of my background, see https://laurentiugabriel.github.io
 - 📫 You can reach me at laurentiu@bitheap.tech
 
 <!---
