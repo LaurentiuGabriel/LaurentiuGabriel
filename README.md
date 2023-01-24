@@ -5,6 +5,7 @@
 - 👀 I’m interested in supervised/unsupervised learning, as well as any artificial intelligence algorithm
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to team up on tackling a challenge on Kaggle.com
+- 🔢 I'm an open source contributor. Check my published packages: https://www.npmjs.com/settings/laurentiu_bitheap/packages
 - 📙 For a complete summary of my background, see https://laurentiugabriel.github.io
 - 📫 You can reach me at laurentiu@bitheap.tech
 
