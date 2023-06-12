@@ -10,25 +10,34 @@
 - 📫 You can reach me at laurentiu@bitheap.tech
 
 ### Links
-<a href="https://www.linkedin.com/in/laurentiur">
+<style>
+    .social-links {
+        display: inline;
+    }
+</style>
+
+<div class="social-links">
+    <a href="https://www.linkedin.com/in/laurentiur">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
- </a>
- 
- <a href="https://twitter.com/Bitheap_tech">
+    </a>
+
+    <a href="https://twitter.com/Bitheap_tech">
         <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
- </a>
- 
-  <a href="[https://twitter.com/Bitheap_tech](https://www.instagram.com/bitheap.tech/)">
+    </a>
+
+    <a href="[https://twitter.com/Bitheap_tech](https://www.instagram.com/bitheap.tech/)">
         <img src="https://img.shields.io/badge/instagram-blueviolet?style=flat-square&logo=instagram" alt="Instagram">
- </a>
- 
- <a href="https://wwww.bitheap.tech">
+    </a>
+
+    <a href="https://wwww.bitheap.tech">
         <img src="https://img.shields.io/badge/bitheap-tech-black" alt="bitheap.tech">
- </a>
- 
- <a href="https://headsnap.io">
+    </a>
+
+    <a href="https://headsnap.io">
         <img src="https://img.shields.io/badge/headsnap-AI-orang?logo=probot" alt="headsnap.io">
- </a>
+    </a>
+</div>
+
  
  ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/LaurentiuGabriel)
