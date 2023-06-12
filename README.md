@@ -23,7 +23,7 @@
  </a>
  
  <a href="https://wwww.bitheap.tech">
-        <img src=" https://img.shields.io/badge/website-url-lightgrey" alt="bitheap.tech">
+        <img src="https://img.shields.io/badge/bitheap-tech-black" alt="bitheap.tech">
  </a>
  
  <a href="https://headsnap.io">
