@@ -41,7 +41,7 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/LaurentiuGabriel)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/LaurentiuGabriel)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/LaurentiuGabriel)
-[![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=golang)](https://github.com/LaurentiuGabriel)
+[![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/LaurentiuGabriel)
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/LaurentiuGabriel)
