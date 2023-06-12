@@ -44,7 +44,7 @@
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/LaurentiuGabriel)
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/LaurentiuGabriel)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/LaurentiuGabriel)
-[![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular)](https://github.com/LaurentiuGabriel)
+[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/LaurentiuGabriel)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/LaurentiuGabriel)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/LaurentiuGabriel)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/LaurentiuGabriel)
