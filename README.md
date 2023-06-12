@@ -47,8 +47,16 @@
 [![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/LaurentiuGabriel)
 
 ### Technologies & Frameworks
+[![Svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://github.com/LaurentiuGabriel)
+[![Vuejs](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vue)](https://github.com/LaurentiuGabriel)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/LaurentiuGabriel)
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/LaurentiuGabriel)
+[![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/LaurentiuGabriel)
+[![Vault](https://img.shields.io/badge/vault-black?style=for-the-badge&logo=vault)](https://github.com/LaurentiuGabriel)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/LaurentiuGabriel)
+[![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)](https://github.com/LaurentiuGabriel)
+[![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/LaurentiuGabriel)
+[![Keras](https://img.shields.io/badge/keras-black?style=for-the-badge&logo=keras)](https://github.com/LaurentiuGabriel)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/LaurentiuGabriel)
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/LaurentiuGabriel)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/LaurentiuGabriel)
