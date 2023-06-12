@@ -45,6 +45,7 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/LaurentiuGabriel)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/LaurentiuGabriel)
 [![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/LaurentiuGabriel)
+[![COBOL](https://img.shields.io/badge/cobol-black?style=for-the-badge&logo=cobol)](https://github.com/LaurentiuGabriel)
 
 ### Technologies & Frameworks
 [![Svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://github.com/LaurentiuGabriel)
