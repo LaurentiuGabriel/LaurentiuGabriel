@@ -32,6 +32,7 @@
 
  
  ### Languages
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/LaurentiuGabriel)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/LaurentiuGabriel)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/LaurentiuGabriel)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/LaurentiuGabriel)
@@ -40,11 +41,13 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/LaurentiuGabriel)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/LaurentiuGabriel)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/LaurentiuGabriel)
+[![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=golang)](https://github.com/LaurentiuGabriel)
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/LaurentiuGabriel)
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/LaurentiuGabriel)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/LaurentiuGabriel)
+[![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular)](https://github.com/LaurentiuGabriel)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/LaurentiuGabriel)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/LaurentiuGabriel)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/LaurentiuGabriel)
