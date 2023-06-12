@@ -1,7 +1,7 @@
 <p align="center">
     <b>Welcome to my GitHub page! <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="28px" alt="👋"></b><br><br>
     <i>
-        I'm Laurentiu.<br>
+        I'm Laurentiu<br>
         I am the founder of bitheap.tech<br>
         Check out my product, <a href=HeadSnap.io>HeadSnap</a>, where you can create your AI avatar <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="28px" alt="🚀"><br>
         Check out my shop at <a href=bitheap.tech/shop>my shop</a>, where you can buy cool tech products <img src="https://media.tenor.com/xzM6oRwPFrMAAAAi/rolling-jackass.gif" width="28px" alt="🛒"><br>
