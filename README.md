@@ -69,6 +69,9 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/LaurentiuGabriel)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/LaurentiuGabriel)
 
+### Interests
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=700&width=435&lines=Artificial+Intelligence;Distributed+Systems;Cybersecurity)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @LaurentiuGabriel
 - 💼 I'm the founder of https://bitheap.tech/
 - 📚 I'm a tech author at Pluralsight and Udemy with courses having more than 100k students
