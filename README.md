@@ -3,7 +3,7 @@
     <i>
         I'm Laurentiu<br>
         I am the founder of bitheap.tech<br>
-        Check out my product, <a href=HeadSnap.io>HeadSnap</a>, where you can create your AI avatar <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="28px" alt="🚀"><br>
+        Check out my product, <a href=https://HeadSnap.io>HeadSnap</a>, where you can create your AI avatar <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="28px" alt="🚀"><br>
         Check out <a href=bitheap.tech/shop>my shop</a>, where you can buy cool tech products <img src="https://media.tenor.com/xzM6oRwPFrMAAAAi/rolling-jackass.gif" width="28px" alt="🛒"><br>
         Open to collaboration on interesting and innovative projects <img src="https://media.tenor.com/swkJYSIq89YAAAAi/man-technologist-people.gif" width="28px" alt="🖥️"><br>
     </i><br>
