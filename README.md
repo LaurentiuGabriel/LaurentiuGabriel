@@ -2,7 +2,7 @@
     <b>Welcome to my GitHub page! <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="28px" alt="👋"></b><br><br>
     <i>
         I'm Laurentiu<br>
-        I am the founder of bitheap.tech<br>
+        I am the founder of bitheap.tech, a software development agency<br>
         Check out my product, <a href=https://HeadSnap.io>HeadSnap</a>, where you can create your AI avatar <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="28px" alt="🚀"><br>
         I also developed <a href=https://dave-bot.com>Dave</a>, an AI platform where you can generate videos, music, pictures, code, books, anything basically!<br>
         Check out <a href=https://bitheap.tech/shop>my shop</a>, where you can buy cool tech products <img src="https://media.tenor.com/xzM6oRwPFrMAAAAi/rolling-jackass.gif" width="28px" alt="🛒"><br>
