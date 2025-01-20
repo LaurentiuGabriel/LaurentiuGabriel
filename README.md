@@ -28,8 +28,7 @@
         <img src="https://img.shields.io/badge/headsnap-AI-orang?logo=probot" alt="headsnap.io">
  </a>
   <a href="https://dave-bot.com">
-        <img src="[https://img.shields.io/badge/headsnap-AI-orang?logo=probot](https://img.shields.io/badge/dave-bot?style=plastic
-)" alt="Dave">
+        <img src="https://img.shields.io/badge/dave-bot?style=plastic" alt="Dave">
  </a>
 </p>
 
