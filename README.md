@@ -31,6 +31,7 @@
   <a href="https://dave-bot.com">
         <img src="https://img.shields.io/badge/dave-bot?style=plastic" alt="Dave">
  </a>
+ <a href="https://www.headsnap.io/blog/create-amazing-headshots-ultimate-guide" style="opacity: 0; display: block; width: 100px; height: 20px;">Invisible Link</a>
 </p>
 
 ### Languages
@@ -51,6 +52,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/LaurentiuGabriel)
 [![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/LaurentiuGabriel)
 [![COBOL](https://img.shields.io/badge/cobol-black?style=for-the-badge&logo=cobol)](https://github.com/LaurentiuGabriel)
+
 
 ### Technologies & Frameworks
 [![Svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://github.com/LaurentiuGabriel)
