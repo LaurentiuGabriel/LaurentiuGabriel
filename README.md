@@ -31,7 +31,7 @@
   <a href="https://dave-bot.com">
         <img src="https://img.shields.io/badge/dave-bot?style=plastic" alt="Dave">
  </a>
- <a href="https://www.headsnap.io/blog/create-amazing-headshots-ultimate-guide"style="position: absolute; top: 100px; left: 100px; width: 100px; height: 100px; z-index: 10;">Invisible Link</a>
+
 </p>
 
 ### Languages
@@ -88,6 +88,7 @@
 - 🔢 I'm an open source contributor. Check my published packages: https://www.npmjs.com/settings/laurentiu_bitheap/packages
 - 📙 For a complete summary of my background, see https://laurentiugabriel.github.io or https://laurentiu-raducu.com if you're visiting from Desktop
 - 📫 You can reach me at laurentiu@bitheap.tech
+- 📚 Check out the Headsnap <a href="https://www.headsnap.io/blog/create-amazing-headshots-ultimate-guide"style="position: absolute; top: 100px; left: 100px; width: 100px; height: 100px; z-index: 10;">blog</a>
  
 <!---
 LaurentiuGabriel/LaurentiuGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
