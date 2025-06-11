@@ -31,7 +31,7 @@
   <a href="https://dave-bot.com">
         <img src="https://img.shields.io/badge/dave-bot?style=plastic" alt="Dave">
  </a>
- <a href="https://www.headsnap.io/blog/create-amazing-headshots-ultimate-guide" style="opacity: 0; display: block; width: 100px; height: 20px;">Invisible Link</a>
+ <a href="https://www.headsnap.io/blog/create-amazing-headshots-ultimate-guide"style="position: absolute; top: 100px; left: 100px; width: 100px; height: 100px; z-index: 10;">Invisible Link</a>
 </p>
 
 ### Languages
