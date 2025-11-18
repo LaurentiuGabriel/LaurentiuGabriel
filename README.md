@@ -81,7 +81,7 @@
 
 - 👋 Hi, I’m @LaurentiuGabriel
 - 💼 I'm the founder of https://bitheap.tech/
-- 📚 I'm a tech author at Pluralsight, LinkedIn Learning and Udemy with courses having more than 100k students
+- 📚 I'm a tech author at Pluralsight, LinkedIn Learning and Udemy with courses having more than 150k students
 - 🏤 I'm a published author on Amazon Kindle Store
 - 👀 I’m interested in supervised/unsupervised learning, as well as any artificial intelligence algorithm
 - 💞️ I’m looking to team up on tackling a challenge on Kaggle.com
