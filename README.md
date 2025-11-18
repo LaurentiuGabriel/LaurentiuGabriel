@@ -6,7 +6,7 @@
         Check out my product, <a href=https://HeadSnap.io>HeadSnap</a>, where you can create your AI avatar <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="28px" alt="🚀"><br>
         I also developed <a href=https://dave-bot.com>Dave</a>, an AI platform where you can generate videos, music, pictures, code, books, anything basically!<br>
         I am the founder of <a href=https://quantiq.live>QuantiQ</a>, a API for fetching financial and historical data for any public company.<br>
-        Check out <a href=https://bitheap.tech/shop>my shop</a>, where you can buy cool tech products <img src="https://media.tenor.com/xzM6oRwPFrMAAAAi/rolling-jackass.gif" width="28px" alt="🛒"><br>
+        Check out <a href=https://select.supply>my shop</a>, where you can buy well-designed products products <img src="https://media.tenor.com/xzM6oRwPFrMAAAAi/rolling-jackass.gif" width="28px" alt="🛒"><br>
         Open to collaboration on interesting and innovative projects <img src="https://media.tenor.com/swkJYSIq89YAAAAi/man-technologist-people.gif" width="28px" alt="🖥️"><br>
     </i><br>
    <a href="https://www.linkedin.com/in/laurentiur">
