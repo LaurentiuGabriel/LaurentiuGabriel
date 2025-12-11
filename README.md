@@ -3,7 +3,7 @@
     <i>
         I'm Laurentiu<br>
         I am the founder of <a href=https://bitheap.ch>bitheap</a>, a software development agency<br>
-        Check out my product, <a href=https://HeadSnap.io>HeadSnap</a>, where you can create your AI avatar <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="28px" alt="🚀"><br>
+        Check out my product, <a href=https://HeadSnap.io>the best AI headshot generator</a>, where you can create your AI avatar <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="28px" alt="🚀"><br>
         I also developed <a href=https://dave-bot.com>Dave</a>, an AI platform where you can generate videos, music, pictures, code, books, anything basically!<br>
         I am the founder of <a href=https://quantiq.live>QuantiQ</a>, a API for fetching financial and historical data for any public company.<br>
         Ialso launched <a href=https://aivestor.tech>AIvestor</a>, an AI agent for market analysis that uses Gemini-3, web search, Polymarket, Reddit, X, Google Trends and many other services to give you an edge on the stock market.<br>
