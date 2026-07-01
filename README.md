@@ -81,7 +81,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=700&width=435&lines=Artificial+Intelligence;Distributed+Systems;Cybersecurity)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @LaurentiuGabriel
-- 💼 I'm the founder of https://bitheap.tech/
+- 💼 I'm the founder of https://bitheap.ch/
 - 📚 I'm a tech author at Pluralsight, LinkedIn Learning and Udemy with courses having more than 150k students
 - 🏤 I'm a published author on Amazon Kindle Store
 - 👀 I’m interested in supervised/unsupervised learning, as well as any artificial intelligence algorithm
