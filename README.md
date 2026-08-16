@@ -89,7 +89,7 @@
 - 🔢 I'm an open source contributor. Check my published packages: https://www.npmjs.com/settings/laurentiu_bitheap/packages
 - 📙 For a complete summary of my background, see https://laurentiu-raducu.com
 - 📫 You can reach me at laurentiu@bitheap.tech
-- 📚 Check out the Headsnap <a href="https://www.headsnap.io/blog/create-amazing-headshots-ultimate-guide"style="position: absolute; top: 100px; left: 100px; width: 100px; height: 100px; z-index: 10;">blog</a>
+- 📚 Check out the [Headsnap blog](https://headsnap.io/blog).
  
 <!---
 LaurentiuGabriel/LaurentiuGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
