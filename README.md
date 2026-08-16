@@ -87,7 +87,7 @@
 - 👀 I’m interested in supervised/unsupervised learning, as well as any artificial intelligence algorithm
 - 💞️ I’m looking to team up on tackling a challenge on Kaggle.com
 - 🔢 I'm an open source contributor. Check my published packages: https://www.npmjs.com/settings/laurentiu_bitheap/packages
-- 📙 For a complete summary of my background, see https://laurentiugabriel.github.io or https://laurentiu-raducu.com if you're visiting from Desktop
+- 📙 For a complete summary of my background, see https://laurentiu-raducu.com
 - 📫 You can reach me at laurentiu@bitheap.tech
 - 📚 Check out the Headsnap <a href="https://www.headsnap.io/blog/create-amazing-headshots-ultimate-guide"style="position: absolute; top: 100px; left: 100px; width: 100px; height: 100px; z-index: 10;">blog</a>
  
